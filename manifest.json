@@ -1,0 +1,18 @@
+{
+    "dir": "ltr",
+    "lang": "English",
+    "name": "InfecDisease",
+    "scope": "/Infectious-disease/",
+    "display": "standalone",
+    "start_url": "https://taufeeq-mowzer.github.io/Infectious-disease/",
+    "short_name": "InfecDisease",
+    "theme_color": "transparent",
+    "description": "prototype of  a module",
+    "orientation": "any",
+    "background_color": "transparent",
+    "related_applications": [],
+    "prefer_related_applications": false,
+    "icons": [],
+    "url": "https://taufeeq-mowzer.github.io/Infectious-disease/",
+    "screenshots": []
+}
